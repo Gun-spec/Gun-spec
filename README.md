@@ -37,3 +37,7 @@ Feel free to explore my repositories, check out my projects, and don't hesitate 
 ---
 
 **✨ Thanks for visiting my profile! Happy coding! 🚀**
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gun-spec&theme=radical)](https://github.com/Gun-spec)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gun-spec&layout=compact&theme=radical)](https://github.com/Gun-spec)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gun-spec&show_icons=true&theme=radical)](https://github.com/Gun-spec)
