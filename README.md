@@ -1,56 +1,55 @@
-# Hey there! 👋 I'm Gun-spec
+<h1 align="center">Hello Visitor! 👋</h1>
 
-Welcome to my GitHub profile! I'm a young programmer passionate about creating cool projects and exploring the world of coding.
+###
 
-## 🛠️ **My Skills & Languages**
+<h3 align="left">Hello guys, i am Gun-Spec an kid on github, i really like programming and many more</h3>
 
-![Python](https://img.shields.io/badge/python-%233776ab.svg?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Roblox](https://img.shields.io/badge/roblox-%23EC7728.svg?style=for-the-badge&logo=roblox&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+###
 
-## 📊 **GitHub Stats**
+<br clear="both">
 
-[![GitHub Streak](https://github-readme-streak-stats-lake-five.vercel.app/?user=Gun-spec&theme=radical)](https://github.com/Gun-spec)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=3&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=54&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gun-spec&show_icons=true&theme=radical)](https://github.com/Gun-spec)
+###
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gun-spec&layout=compact&theme=radical)](https://github.com/Gun-spec)
+<h2 align="left">My Skills and Apps</h2>
 
-## 🎮 **About Me**
+###
 
-- 🎯 **Aspiring Developer** - Learning programming languages and building projects
-- 🎮 **Roblox Creator** - Creating games and scripts on the Roblox platform
-- 🐍 **Python Enthusiast** - Exploring Python for various projects
-- 💻 **Always Learning** - Constantly improving my coding skills
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/insomnia-5E00D3?logo=insomnia&logoColor=white&style=for-the-badge" height="40" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
+</div>
 
-## 🚀 **What I'm Into**
+###
 
-- **Roblox Development** - Building games, creating scripts, and experimenting with game mechanics
-- **Python Programming** - Learning and building projects with Python
-- **Problem Solving** - Enjoying the challenge of coding puzzles and debugging
-- **Game Design** - Fascinated by how games work and how to create fun experiences
+<p align="left">## 🎮 **About Me**<br><br>- 🎯 **Aspiring Developer** - Learning programming languages and building projects<br>- 🎮 **Roblox Creator** - Creating games and scripts on the Roblox platform<br>- 🐍 **Python Enthusiast** - Exploring Python for various projects<br>- 💻 **Always Learning** - Constantly improving my coding skills<br><br>## 🚀 **What I'm Into**<br><br>- **Roblox Development** - Building games, creating scripts, and experimenting with game mechanics<br>- **Python Programming** - Learning and building projects with Python<br>- **Problem Solving** - Enjoying the challenge of coding puzzles and debugging<br>- **Game Design** - Fascinated by how games work and how to create fun experiences<br><br>## 📚 **Currently Learning**<br><br>- Python fundamentals and advanced concepts<br>- Roblox Lua scripting<br>- Game development principles<br>- Web development basics<br><br>## 🎯 **My Goals**<br><br>- Build more complex Roblox games<br>- Master Python programming<br>- Create fun and engaging projects<br>- Help other young programmers learn to code</p>
 
-## 📚 **Currently Learning**
+###
 
-- Python fundamentals and advanced concepts
-- Roblox Lua scripting
-- Game development principles
-- Web development basics
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Gun-Spec/Gun-Spec/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Gun-Spec/Gun-Spec/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Gun-Spec/Gun-Spec/activity-graph-output/activity-graph.svg" height="200" alt="activity-graph graph"  />
+</div>
 
-## 🎯 **My Goals**
-
-- Build more complex Roblox games
-- Master Python programming
-- Create fun and engaging projects
-- Help other young programmers learn to code
-
-## 📞 **Let's Connect!**
-
-Feel free to explore my repositories, check out my projects, and don't hesitate to reach out if you want to collaborate or chat about programming!
-
----
-
-**✨ Thanks for visiting my profile! Happy coding! 🚀**
+###
