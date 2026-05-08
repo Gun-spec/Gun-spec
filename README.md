@@ -90,14 +90,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gun-Spec/Gun-Spec/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Gun-Spec/Gun-Spec/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/Gun-Spec/Gun-Spec/activity-graph-output/activity-graph.svg" height="200" alt="activity-graph graph"  />
-</div>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
