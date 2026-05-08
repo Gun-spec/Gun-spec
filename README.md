@@ -13,6 +13,8 @@ Welcome to my GitHub profile! I'm a young programmer passionate about creating c
 
 ## 📊 **GitHub Stats**
 
+[![GitHub Streak](https://github-readme-streak-stats-lake-five.vercel.app/?user=Gun-spec&theme=radical)](https://github.com/Gun-spec)
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gun-spec&show_icons=true&theme=radical)](https://github.com/Gun-spec)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gun-spec&layout=compact&theme=radical)](https://github.com/Gun-spec)
