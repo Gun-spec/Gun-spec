@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<h4 align="left">🎯 Aspiring Developer learning programming and building projects<br>🎮 Roblox Creator making games and scripts<br>🐍 Python Enthusiast exploring new projects<br>💻 Always improving coding skills and learning new things</h4>
+<h3 align="left">🎯 Aspiring Developer learning programming and building projects<br>🎮 Roblox Creator making games and scripts<br>🐍 Python Enthusiast exploring new projects<br>💻 Always improving coding skills and learning new things</h3>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h4 align="left">Roblox game development and scripting<br>Python programming and experiments<br>Problem solving and debugging<br>Game design and mechanics</h4>
+<h3 align="left">Roblox game development and scripting<br>Python programming and experiments<br>Problem solving and debugging<br>Game design and mechanics</h3>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h4 align="left">Python fundamentals and advanced concepts<br>Roblox Lua scripting<br>Game development principles<br>Web development basics</h4>
+<h3 align="left">Python fundamentals and advanced concepts<br>Roblox Lua scripting<br>Game development principles<br>Web development basics</h3>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h4 align="left">Help kids that like coding get better at it<br>Learn from experts maybe get a job<br>Improve my current skills!</h4>
+<h3 align="left">Help kids that like coding get better at it<br>Learn from experts maybe get a job<br>Improve my current skills!</h3>
 
 ###
 
