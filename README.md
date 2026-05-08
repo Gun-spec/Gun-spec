@@ -1,16 +1,14 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
 <h1 align="center">Hello Visitor! 👋</h1>
 
 ###
 
 <h3 align="left">Hello guys, i am Gun-Spec an kid on github, i really like programming and many more</h3>
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=3&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=54&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
 
 ###
 
@@ -42,7 +40,53 @@
 
 ###
 
-<p align="left">## 🎮 **About Me**<br><br>- 🎯 **Aspiring Developer** - Learning programming languages and building projects<br>- 🎮 **Roblox Creator** - Creating games and scripts on the Roblox platform<br>- 🐍 **Python Enthusiast** - Exploring Python for various projects<br>- 💻 **Always Learning** - Constantly improving my coding skills<br><br>## 🚀 **What I'm Into**<br><br>- **Roblox Development** - Building games, creating scripts, and experimenting with game mechanics<br>- **Python Programming** - Learning and building projects with Python<br>- **Problem Solving** - Enjoying the challenge of coding puzzles and debugging<br>- **Game Design** - Fascinated by how games work and how to create fun experiences<br><br>## 📚 **Currently Learning**<br><br>- Python fundamentals and advanced concepts<br>- Roblox Lua scripting<br>- Game development principles<br>- Web development basics<br><br>## 🎯 **My Goals**<br><br>- Build more complex Roblox games<br>- Master Python programming<br>- Create fun and engaging projects<br>- Help other young programmers learn to code</p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=3&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark"  />
+</div>
+
+###
+
+<h2 align="left">🎮 About Me</h2>
+
+###
+
+<br clear="both">
+
+<h4 align="left">🎯 Aspiring Developer learning programming and building projects<br>🎮 Roblox Creator making games and scripts<br>🐍 Python Enthusiast exploring new projects<br>💻 Always improving coding skills and learning new things</h4>
+
+###
+
+<h2 align="left">🚀 What I'm Into</h2>
+
+###
+
+<h4 align="left">Roblox game development and scripting<br>Python programming and experiments<br>Problem solving and debugging<br>Game design and mechanics</h4>
+
+###
+
+<h2 align="left">📚 Currently Learning</h2>
+
+###
+
+<h4 align="left">Python fundamentals and advanced concepts<br>Roblox Lua scripting<br>Game development principles<br>Web development basics</h4>
+
+###
+
+<h2 align="left">🎯 Goals</h2>
+
+###
+
+<h4 align="left">Help kids that like coding get better at it<br>Learn from experts maybe get a job<br>Improve my current skills!</h4>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=3&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark"  />
+</div>
+
+###
+
+<h2 align="left">My Stats</h2>
 
 ###
 
@@ -50,6 +94,12 @@
   <img src="https://raw.githubusercontent.com/Gun-Spec/Gun-Spec/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Gun-Spec/Gun-Spec/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Gun-Spec/Gun-Spec/activity-graph-output/activity-graph.svg" height="200" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
