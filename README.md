@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
-  <img width="12"
   <img src="https://img.shields.io/badge/roblox-%23EC7728.svg?style=for-the-badge&logo=roblox&logoColor=white" height="40" alt="roblox logo"  />
 </div>
 
