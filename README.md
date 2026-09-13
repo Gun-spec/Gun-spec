@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Hello guys, I am Gun-Spec, a kid on GitHub. I really like programming and many more things!</h3>
+<h3 align="left">Hello guys, I am Gun-Spec, a human on GitHub. I really like programming and many more things!</h3>
 
 ###
 
@@ -92,7 +92,7 @@ Web development basics
 ###
 
 <h3 align="left">
-Help kids that like coding get better at it<br>
+Help people that like coding get better at it<br>
 Learn from experts and maybe get a job<br>
 Improve my current skills!
 </h3>
